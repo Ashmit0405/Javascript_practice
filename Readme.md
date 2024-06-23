@@ -1,0 +1,1 @@
+Some practice of javascript programming language
